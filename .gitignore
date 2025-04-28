@@ -1,0 +1,39 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Image files (if not needed in the repo)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.svg
+
+# Backup files
+*.bak
+*.swp
